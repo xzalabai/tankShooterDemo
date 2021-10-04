@@ -6,4 +6,4 @@ This game is just quick insight to assignment, where player can:
 - shoot AI (red) enemies
 And can use either:
 - classic missile
-- homicide missile
+- homing missile
